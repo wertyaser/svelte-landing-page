@@ -7,7 +7,7 @@
 
 <slot />
 
-<SectionWrapper>
+<SectionWrapper >
   <Header />
 </SectionWrapper>
 
