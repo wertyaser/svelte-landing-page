@@ -12,7 +12,7 @@
         </button>
         <nav class="hidden md:flex items-center gap-4 lg:gap-6">
             <a class="duration-200 hover:text-indigo-400 cursor-pointer" href="#product">Product</a>
-            <a class="duration-200 hover:text-indigo-400 cursor-pointer" href="#reeviews">Reviews</a>
+            <a class="duration-200 hover:text-indigo-400 cursor-pointer" href="#reviews">Reviews</a>
             <a class="duration-200 hover:text-indigo-400 cursor-pointer" href="#faqs">FAQ</a>
             <button class="specialBtn">
                 <p>Start free today</p>

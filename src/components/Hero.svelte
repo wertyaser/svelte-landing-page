@@ -28,6 +28,7 @@
                 </div>
             </div>
             {/each}
+            <p>500+</p>
         </div>
     </div>
 </SectionWrapper>
